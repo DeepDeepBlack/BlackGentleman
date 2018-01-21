@@ -2,7 +2,9 @@
 
 int	f(void)
 {
-	static int	x = 0;
+	static int	x;
+
+	x = 0;
 
 	return (x++);
 }
