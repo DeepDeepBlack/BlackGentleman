@@ -1,0 +1,2 @@
+this is the test file for program RTCP.c
+you can also testthis program with any text file you wish!
